@@ -1,0 +1,203 @@
+{
+ "j1": {
+  "A1": "haiku",
+  "A2": "opus",
+  "A3": "sonnet",
+  "B1": "sonnet",
+  "B2": "haiku",
+  "B3": "opus",
+  "C1": "sonnet",
+  "C2": "haiku",
+  "C3": "opus"
+ },
+ "j2": {
+  "R01": {
+   "q": "Q3",
+   "cond": "opus_ctrl"
+  },
+  "R02": {
+   "q": "Q8",
+   "cond": "opus_ctrl"
+  },
+  "R03": {
+   "q": "Q9",
+   "cond": "opus_ctrl"
+  },
+  "R04": {
+   "q": "Q6",
+   "cond": "haiku_ctrl"
+  },
+  "R05": {
+   "q": "Q10",
+   "cond": "haiku_ctrl"
+  },
+  "R06": {
+   "q": "Q4",
+   "cond": "haiku_ctrl"
+  },
+  "R07": {
+   "q": "Q6",
+   "cond": "opus_v21"
+  },
+  "R08": {
+   "q": "Q6",
+   "cond": "opus_ctrl"
+  },
+  "R09": {
+   "q": "Q1",
+   "cond": "opus_ctrl"
+  },
+  "R10": {
+   "q": "X2",
+   "cond": "haiku_v21"
+  },
+  "R11": {
+   "q": "Q1",
+   "cond": "opus_v21"
+  },
+  "R12": {
+   "q": "Q2",
+   "cond": "haiku_ctrl"
+  },
+  "R13": {
+   "q": "Q9",
+   "cond": "haiku_ctrl"
+  },
+  "R14": {
+   "q": "Q11",
+   "cond": "haiku_ctrl"
+  },
+  "R15": {
+   "q": "Q5",
+   "cond": "opus_v21"
+  },
+  "R16": {
+   "q": "Q5",
+   "cond": "opus_ctrl"
+  },
+  "R17": {
+   "q": "Q8",
+   "cond": "haiku_ctrl"
+  },
+  "R18": {
+   "q": "X5",
+   "cond": "haiku_v21"
+  },
+  "R19": {
+   "q": "Q4",
+   "cond": "opus_ctrl"
+  },
+  "R20": {
+   "q": "Q11",
+   "cond": "opus_ctrl"
+  },
+  "R21": {
+   "q": "X6",
+   "cond": "haiku_ctrl"
+  },
+  "R22": {
+   "q": "X3",
+   "cond": "haiku_ctrl"
+  },
+  "R23": {
+   "q": "X3",
+   "cond": "haiku_v21"
+  },
+  "R24": {
+   "q": "Q8",
+   "cond": "opus_v21"
+  },
+  "R25": {
+   "q": "Q7",
+   "cond": "opus_ctrl"
+  },
+  "R26": {
+   "q": "Q7",
+   "cond": "opus_v21"
+  },
+  "R27": {
+   "q": "Q11",
+   "cond": "opus_v21"
+  },
+  "R28": {
+   "q": "X1",
+   "cond": "haiku_ctrl"
+  },
+  "R29": {
+   "q": "X5",
+   "cond": "haiku_ctrl"
+  },
+  "R30": {
+   "q": "Q10",
+   "cond": "opus_v21"
+  },
+  "R31": {
+   "q": "Q1",
+   "cond": "haiku_ctrl"
+  },
+  "R32": {
+   "q": "Q3",
+   "cond": "haiku_ctrl"
+  },
+  "R33": {
+   "q": "Q3",
+   "cond": "opus_v21"
+  },
+  "R34": {
+   "q": "Q10",
+   "cond": "opus_ctrl"
+  },
+  "R35": {
+   "q": "Q7",
+   "cond": "haiku_ctrl"
+  },
+  "R36": {
+   "q": "X1",
+   "cond": "haiku_v21"
+  },
+  "R37": {
+   "q": "Q2",
+   "cond": "opus_v21"
+  },
+  "R38": {
+   "q": "X4",
+   "cond": "haiku_v21"
+  },
+  "R39": {
+   "q": "X4",
+   "cond": "haiku_ctrl"
+  },
+  "R40": {
+   "q": "X2",
+   "cond": "haiku_ctrl"
+  },
+  "R41": {
+   "q": "X6",
+   "cond": "haiku_v21"
+  },
+  "R42": {
+   "q": "Q4",
+   "cond": "opus_v21"
+  },
+  "R43": {
+   "q": "Q2",
+   "cond": "opus_ctrl"
+  },
+  "R44": {
+   "q": "Q9",
+   "cond": "opus_v21"
+  },
+  "R45": {
+   "q": "Q5",
+   "cond": "haiku_ctrl"
+  }
+ },
+ "j3": {
+  "V1": "full1",
+  "V2": "comp1",
+  "V3": "none2",
+  "V4": "none1",
+  "V5": "comp2",
+  "V6": "full2"
+ }
+}
