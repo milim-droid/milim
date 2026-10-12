@@ -1,0 +1,4 @@
+[CONVERSATION]
+[USER]
+WCAG 2.2에서 터치(포인터) 대상의 최소 크기 기준은?
+
