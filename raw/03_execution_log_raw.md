@@ -2,7 +2,8 @@
 
 - 모델: Claude Opus 5.5 (`claude-opus-5-5`)
 - 채널: Claude Code 클라우드 세션 (웹)
-- 날짜: 2026-10-12
+- 날짜: 2026-10-10
+- 요금제: 무료
 - 설정: 기본값 (temperature 등 조정 불가)
 - 적용 프롬프트: `02_system_design_doc.md` 7장 시스템 프롬프트 v2 + 8장 Few-shot 3개
 - 총 18턴 (사용자 9 · AI 9)
